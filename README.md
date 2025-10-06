@@ -1,11 +1,11 @@
-# 🐍 Python Interview Challenges
+#  Python Interview Challenges
 
 A collection of Python coding challenges and interview questions with step-by-step explanations.  
 This repository helps you strengthen your **problem-solving**, **data structures**, and **core Python** concepts through practical examples.
 
 ---
 
-## 📘 Topics Covered
+##  Topics Covered
 - Strings
 - Lists & Arrays
 - Dictionaries & Sets
@@ -16,7 +16,7 @@ This repository helps you strengthen your **problem-solving**, **data structures
 - Algorithmic Challenges
 ---
 
-## 🧠 Example Problems
+##  Example Problems
 | # | Problem | Concepts |
 |---|----------|-----------|
 | 1 | Reverse a String (without built-ins) | Loops, Two Pointers |
