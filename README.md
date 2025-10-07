@@ -1,7 +1,7 @@
 #  Python Interview Challenges
 
 A collection of Python coding challenges for  interview purpose.  
-This repository helps you strengthen your **problem-solving**, **data structures**, and **core Python** concepts through practical examples.
+This repository helped me to strengthen my **problem-solving**, **data structures** and **core Python** concepts through practical examples.
 
 ---
 
