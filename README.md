@@ -33,5 +33,17 @@ and build confidence in writing clean, efficient code.
 
 ---
 
+## Future Additions
+
+Searching and Sorting problems
+
+Recursion-based challenges
+
+Data structure mini-projects
+
+Real-world Python interview tasks
+
+---
+
 ## Author
 Tilottama Shinde
