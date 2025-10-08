@@ -30,3 +30,8 @@ This repository helped me to strengthen my **problem-solving**, **data structure
 ##  Goal
 To practice real interview-style Python questions — starting from simple to advanced —  
 and build confidence in writing clean, efficient code.
+
+---
+
+## Author
+Tilottama Shinde
