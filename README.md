@@ -24,3 +24,9 @@ This repository helped me to strengthen my **problem-solving**, **data structure
 | 3 | Flatten a Nested List | Recursion |
 | 4 | `is` vs `==` | Object Identity, Memory |
 | 5 | Implement Custom `map()` / `filter()` | Higher-Order Functions |
+
+---
+
+##  Goal
+To practice real interview-style Python questions — starting from simple to advanced —  
+and build confidence in writing clean, efficient code.
