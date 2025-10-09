@@ -36,6 +36,6 @@ queue.display()
 
 print("Dequeued item : ",queue.dequeue())
 print("Front element : ", queue.peek())
-
+queue.display()
 
 
