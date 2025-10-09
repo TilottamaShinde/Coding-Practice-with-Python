@@ -25,5 +25,17 @@ class Queue:
     def display(self):
         print("Queue (front -> rear): ", list(self.queue))
 
+#Example usage
+
+queue = Queue()
+queue.enqueue(1)
+queue.enqueue(2)
+queue.enqueue(3)
+
+queue.display()
+
+print("Dequeued item : ",queue.dequeue())
+print("Front element : ", queue.peek())
+
 
 
